@@ -2,5 +2,5 @@
 .idea
 *.iml
 *.iws
-main.js
-index.php
+.main.js
+.index.php
